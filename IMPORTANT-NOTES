@@ -1,0 +1,7 @@
+
+
+Root Access: The script generally requires root access on your Android device to back up all partitions.    
+Battery Level: Ensure your device has sufficient battery charge (at least 40%) before starting the backup.    
+Backup Time: Nandroid backups can take a significant amount of time, depending on the size of your device's storage.    
+Interruptions: Do not interrupt the backup process. Avoid using your device or disconnecting it from your computer during the backup.    
+Windows 11 Admin Rights: In Windows 11, you might need administrative rights to create a folder in the root directory of a drive.    
