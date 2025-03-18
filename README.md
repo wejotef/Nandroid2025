@@ -40,6 +40,8 @@ Command Line Options
 
 The script supports a few command-line options to customize the backup process:
 
--d: Decrypt files in the /userdata partition. This is useful for backing up user data in a usable format on devices with File-Based Encryption (FBE).    
+-d: Decrypt files in the /userdata partition. This is useful for backing up user data in a usable format on devices with File-Based Encryption (FBE).   
+
 -x <directories>: Exclude specific directories from the /userdata partition backup. <directories> should be a semi-colon separated list of directory names. For example: nandroid.bat -x Downloads;DCIM.    
+
 -z: Create a TAR archive of the backup files instead of raw images.
