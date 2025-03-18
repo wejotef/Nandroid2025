@@ -1,4 +1,6 @@
+#Nandroid2025
 
+Important considerations
 
 Root Access: The script generally requires root access on your Android device to back up all partitions.    
 Battery Level: Ensure your device has sufficient battery charge (at least 40%) before starting the backup.    
