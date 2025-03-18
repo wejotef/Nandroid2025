@@ -45,4 +45,7 @@ The script supports a few command-line options to customize the backup process:
 -x <directories>: Exclude specific directories from the /userdata partition backup. <directories> should be a semi-colon separated list of directory names. For example: nandroid.bat -x Downloads;DCIM.    
 
 -z: Create a TAR archive of the backup files instead of raw images.
+
+
+Screenshot
 ![Screenshot 2025-03-17 153012](https://github.com/user-attachments/assets/7b0b662a-10c6-4f90-b522-2f48ba3ac9d3)
